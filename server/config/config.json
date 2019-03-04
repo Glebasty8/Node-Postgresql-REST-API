@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "me",
+    "password": "qwer",
+    "database": "todos-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": "Sequelize.Op"
+  },
+  "test": {
+    "username": "me",
+    "password": "qwer",
+    "databasea": "todos-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": "Sequelize.Op"
+  },
+  "production": {
+    "username": "me",
+    "password": "qwer",
+    "database": "todos-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": "Sequelize.Op"
+  }
+}
